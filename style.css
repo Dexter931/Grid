@@ -9,7 +9,7 @@
 }
 .one{
     background: red;
-    grid-column: 1/2;
+    grid-column: span 1;
     grid-row: 1/3;
 }
 .two{
